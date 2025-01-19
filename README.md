@@ -9,7 +9,7 @@
 🧬 [Gene Expression Analysis](https://github.com/zeniamazhar/BIO310-Gene-expression-analysis) <br>
 🧬 [Viterbi Algorithm for Gene prediction](https://github.com/zeniamazhar/BIO310-Viterbi-algorithm) <br>
 📈 [Analyzing Performance of Videos on Youtube Shorts and Instagram Reels](https://github.com/zeniamazhar/CS210-Data-Science-Project) <br>
-🛒 [Fullstack Ecommerce Website](https://github.com/maryambaig105/CS308-Ecommerce/tree/main/Client/src) <br>
+🛒 [Fullstack Ecommerce Website]([https://github.com/maryambaig105/CS308-Ecommerce/tree/main/Client/src](https://github.com/maryambaig105/CS308-Ecommerce/tree/main)) <br>
 📸 [Converting binary images to RLE and storing in hash table](https://github.com/zeniamazhar/CS300-HashTables)<br><br>
 
 ## 💻 Tech Stack:
