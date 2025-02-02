@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zenia-mazhar-student-032423268/)
 
 # 👩‍💻 Projects:
-🛒 [Fullstack Ecommerce Website](https://github.com/maryambaig105/CS308-Ecommerce/tree/main) <br>
+🛒 [Fullstack Ecommerce Website](https://github.com/zeniamazhar/Ecommerce-website/blob/main/README.md) <br>
 📸 [Converting binary images to RLE and storing in hash table](https://github.com/zeniamazhar/CS300-HashTables)<br>
 🧬 [Gene Expression Analysis](https://github.com/zeniamazhar/BIO310-Gene-expression-analysis) <br>
 🧬 [Viterbi Algorithm for Gene prediction](https://github.com/zeniamazhar/BIO310-Viterbi-algorithm) <br>
