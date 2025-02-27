@@ -1,5 +1,5 @@
 # 💫 Hello there!
-👩‍💻 I'm a BIO/CS double major student at Sabanci University<br>✨ Interests: Software engineering, data analysis, bioengineering and genetics<br>📚 Currently learning about software development using ![ReactJS](https://react.dev/), ![Node.js](https://nodejs.org/en) and ![MongoDB](https://account.mongodb.com/account/login?n=https%3A%2F%2Fcloud.mongodb.com%2Fv2%2F6730ae40d598b574519b4a36&nextHash=%23clusters&signedOut=true)<br><br>
+👩‍💻 I'm a BIO/CS double major student at Sabanci University<br>✨ Interests: Software engineering, data analysis, bioengineering and genetics<br>📚 Currently learning about app development using Flutter + Machine Learning concepts using TensoFlow.
 
 
 ## 🌐 Socials:
