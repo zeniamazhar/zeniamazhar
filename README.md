@@ -6,6 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zenia-mazhar-student-032423268/)
 
 # 👩‍💻 Projects:
+📈 [Transfer Learning with VGG-16 For Gender Classification Using CelebA Dataset From Kaggle](https://github.com/zeniamazhar/VGG-16/tree/main)
 📈 [Making k-NN Model and Decision Tree Classifier using the MNIST dataset](https://github.com/zeniamazhar/CS412-assignment/tree/main) <br>
 🛒 [Fullstack Ecommerce Website](https://github.com/zeniamazhar/Ecommerce-website/blob/main/README.md) <br>
 📸 [Converting binary images to RLE and storing in hash table](https://github.com/zeniamazhar/CS300-HashTables)<br>
