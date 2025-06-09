@@ -1,5 +1,5 @@
 # 🌸 Hello there!
-👩‍💻 I'm a BIO/CS double major student at Sabanci University<br>✨ Interests: Software engineering, data analysis, bioengineering and genetics<br>📚 Currently learning about app development using Flutter + Machine Learning concepts using TensorFlow and Pytorch.
+👩‍💻 I'm a BIO (molecular biology, genetics and bioengineering)/CS (computer science and engineering) double major student at Sabanci University<br>✨ Interests: Software engineering, data analysis, bioengineering and genetics<br>📚 Currently learning about app development using Flutter + Machine Learning concepts using TensorFlow and Pytorch.
 
 
 ## 🌐 Socials:
