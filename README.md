@@ -1,5 +1,5 @@
 # 🌸 Hello there!
-👩‍💻 I'm a BIO (molecular biology, genetics and bioengineering)/CS (computer science and engineering) double major student at Sabanci University<br>✨ Interests: Software engineering, data analysis, bioengineering and genetics<br>📚 Currently learning about cybersecurity concepts + computer graphics in OpenGL.
+👩‍💻 I'm a BIO (molecular biology, genetics and bioengineering)/CS (computer science and engineering) double major graduate from Sabanci University<br>✨ Interests: Software engineering, data analysis, bioengineering and genetics<br>📚 Currently learning about cybersecurity concepts + computer graphics in OpenGL.
 
 
 ## 🌐 Socials:
