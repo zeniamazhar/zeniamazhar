@@ -6,8 +6,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zenia-mazhar-student-032423268/)
 
 # 👩‍💻 Projects:
-👋 [AirSlide: Gesture-Based Slide Control Using MediaPipe Pose](https://github.com/zeniamazhar/BERT/tree/main) <br>
-🎬 [Fine-tuning BERT Model for Sentiment Analysis of IMDB Movie Reviews](https://github.com/zeniamazhar/BERT/tree/main](https://github.com/onursonmez191/SU-CS449-549-Final-Project-AirSlide/tree/main) <br>
+👋 [AirSlide: Gesture-Based Slide Control Using MediaPipe Pose](https://github.com/onursonmez191/SU-CS449-549-Final-Project-AirSlide/tree/main) <br>
+🎬 [Fine-tuning BERT Model for Sentiment Analysis of IMDB Movie Reviews](https://github.com/zeniamazhar/BERT/tree/main) <br>
 📈 [Transfer Learning with VGG-16 For Gender Classification Using CelebA Dataset From Kaggle](https://github.com/zeniamazhar/VGG-16/tree/main) <br>
 📈 [Making k-NN Model and Decision Tree Classifier using the MNIST dataset](https://github.com/zeniamazhar/CS412-assignment/tree/main) <br>
 🛒 [Fullstack Ecommerce Website](https://github.com/zeniamazhar/Ecommerce-website/blob/main/README.md) <br>
